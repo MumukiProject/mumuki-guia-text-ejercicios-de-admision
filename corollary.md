@@ -1,0 +1,3 @@
+¡Gracias, ya finalizaste la inscripción!
+
+Recordá que el curso comienza el ....
