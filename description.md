@@ -1,3 +1,3 @@
 En esta guía encontrarás los ejercicios para finalizar tu inscripción.
 
-Deberás resolver los 4 ejercicios.
+Es importante que resuelvas los 4 ejercicios para pasar a la siguiente etapa del curso. ¡Muchos éxitos!
