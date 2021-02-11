@@ -12,7 +12,7 @@ choices:
   value: g0t"aVn67s$5Lh = g0t"aVn67s$5Lh
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: bp38oW{eg2bAÑ*oEez = bp38oW{eg2AÑ*oEez
+  value: bp38oW{eg2bAÑoEe = bp38oW{eg2AÑoEe
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: y9.2ñsaTC6#B3&i = y9.2ñsaTC6#B3&i
