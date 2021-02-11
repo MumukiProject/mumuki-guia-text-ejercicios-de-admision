@@ -1,1 +1,1 @@
-Si la palabra INFORMATORIO se puede representar como  VASBEZNGBEVB, ¿Cómo se puede representar la palabra PROGRAMACION?
+> Si la palabra **INFORMATORIO** se puede representar como  **VASBEZNGBEVB**, ¿Cómo se puede representar la palabra **PROGRAMACION**?
