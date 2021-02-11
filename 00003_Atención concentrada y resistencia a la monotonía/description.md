@@ -1,0 +1,1 @@
+> Señalá en cuál de los siguientes casos los dos miembros son idénticos.

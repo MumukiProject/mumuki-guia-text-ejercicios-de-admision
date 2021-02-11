@@ -1,0 +1,23 @@
+---
+locale: es
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: g0t"aVn67s$5Lh = g0t"aVn67s$5Lh
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 123 = 1243
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: lalala = lalala
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: hola123 = hola123
+  checked: true
+name: Atención concentrada y resistencia a la monotonía
