@@ -1,9 +1,9 @@
 Leé atentamente el siguiente texto y luego resolvé la siguiente consigna.
 
 <div style="text-align: justify;padding: 10px;background-color: #f0f0f5;border: 2px solid #cfd9db;border-width: 1px;">
-<em>
+<h2>
 La telegrafía óptica y sus problemas de la transmisión
-</em>
+</h2>
 <p>
 Uno de los mayores problemas que presentaba el telégrafo óptico era que el símbolo o señal producidos era plano, por lo que había de ser leído de frente. Un telégrafo visto desde un lateral no presentaba información alguna, como puede imaginarse. Esto obligaba a que los trazados de las líneas de comunicación fuesen casi rectilíneos y si había que dar una curva fuese realmente complicado. De todos los sistemas existentes en Europa, los ideados por Betancourt y por Mathé en España fueron los que admitían mayor ángulo de visión (más de 45º), por lo que ambos sistemas fueron muy elogiados en círculos científicos del continente.
 </p>
