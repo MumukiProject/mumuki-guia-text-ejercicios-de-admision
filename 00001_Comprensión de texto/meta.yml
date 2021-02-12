@@ -9,15 +9,17 @@ teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: opc. 1
-  checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: opc. 2
+  value: No importaba la posición desde donde se mirara el telégrafo, siempre presentaba
+    información.
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: opc. 3
+  value: Debido a que la señal producida por el telégrafo era plana, resultaba muy
+    complicado trazar curvas en las líneas de comunicación.
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: opc. 4
+  value: El buen funcionamiento del telégrafo dependía de las condiciones climáticas.
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: La solución para usar el telégrafo de noche fue fijar faroles.
   checked: false
 name: Comprensión de texto
