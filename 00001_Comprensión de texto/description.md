@@ -13,10 +13,8 @@ Pero el que quizá era el mayor inconveniente de este sistema de comunicación e
 <p>
 Por otro lado, con lluvia intensa, niebla, nieve o calima se hacían prácticamente invisibles las estaciones contiguas, por lo que la transmisión había de ser interrumpida.
 </p>
-
-<footer>
-    <cite>Fuente: <a href="http://www.bnm.me.gov.ar/giga1/documentos/EL002864.pdf">Una Escuela Secundaria Obligatoria para todos - La capacidad de comprensión lectora"</a></cite>
-  </footer>
+<cite style= "font-size: 13px;">Fuente: <a href="http://www.bnm.me.gov.ar/giga1/documentos/EL002864.pdf">Una Escuela Secundaria Obligatoria para todos - La capacidad de comprensión lectora</a>, ISBN: 978-92-806-4425-3. Primera edición mayo de 2010. OEI - Regional Buenos Aires. Paraguay 1510 (C1061ABD). Ciudad de Buenos Aires - Argentina.</cite>
 </div>
+
 
 > De acuerdo al texto anterior, marcá cuáles de las siguientes afirmaciones son verdaderas.
