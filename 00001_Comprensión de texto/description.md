@@ -9,6 +9,8 @@ Uno de los mayores problemas que presentaba el telégrafo óptico era que el sí
 </p>
 <p>
 Pero el que quizá era el mayor inconveniente de este sistema de comunicación era el derivado de las lógicas inconveniencias de su medio. De noche era poco fiable y aunque se hicieron experimentos fijando faroles a los telégrafos, lo cierto es que ninguno de los prototipos superó la prueba con resultados satisfactorios en ningún país de Europa. 
+</p>
+<p>
 Por otro lado, con lluvia intensa, niebla, nieve o calima se hacían prácticamente invisibles las estaciones contiguas, por lo que la transmisión había de ser interrumpida.
 </p>
 </div>
