@@ -9,4 +9,7 @@ Pero el que quizá era el mayor inconveniente de este sistema de comunicación e
 Por otro lado, con lluvia intensa, niebla, nieve o calima se hacían prácticamente invisibles las estaciones contiguas, por lo que la transmisión había de ser interrumpida.
 ```
 
+|hola soy un texto muy largo para el ejercicio de comprensión lectora que tiene que decir muchas cosas y no sé cómo hacerlo para que quede bien sin que se corte nada porque siempre se me corta algo y queda pésimo|  |
+|--|--|
+
 > De acuerdo al texto anterior, marcá cuáles de las siguientes afirmaciones son verdaderas.
