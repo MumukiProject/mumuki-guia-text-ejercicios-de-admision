@@ -1,7 +1,7 @@
 Leé atentamente el siguiente texto y luego resolvé la siguiente consigna.
 
 <div style="text-align: justify;padding:10px;background-color: #f0f0f5;border: 2px solid #cfd9db;border-width: 1px;">
-<h2>
+<h2 style="margin-top: 10px;">
 La telegrafía óptica y sus problemas de la transmisión
 </h2>
 <p>
