@@ -1,6 +1,6 @@
 :tada: ¡Terminaste los ejercicios de admisión! :tada:
 
-:heavy_check_mark: ¡Tu inscripción al _Informatorio 2021_ ha sido completada! 
+:heavy_check_mark: ¡Tu inscripción al _Informatorio 2022_ ha sido completada! 
 
 :calendar_spiral: A partir del **10 de marzo** podrás ingresar nuevamente a esta plataforma ([mumuki.io/informatorio](https://mumuki.io/informatorio)) para comenzar a cursar.
 
